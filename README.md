@@ -1,4 +1,4 @@
-# vroot-linux
+# vroot
 Docker template files for virtual nodes without a specific process.
 
 This image is based on [Phusion](http://www.phusion.nl/) baseimage-docker and modified to run a different distro along with some new packages.
